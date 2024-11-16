@@ -16,11 +16,6 @@ https://www.youtube.com/watch?v=4EdOYuBbll0&t=17s)).
 - **ChatGPT**: IA de processamento de linguagem natural da OpenAI, utilizada para gerar descrições criativas, diálogos e interações textuais.
 - **ElevenLabs**: Plataforma de síntese de voz, usada para criar vozes realistas e dinâmicas para a parte de áudio do projeto.
 - **Leonardo.ai**: Plataforma de IA focada na criação de arte digital, utilizada para gerar imagens realistas e detalhadas baseadas nas descrições fornecidas.
-- **DALL·E 2**: IA generativa da OpenAI para criação de imagens a partir de descrições textuais.
-- **Stable Diffusion**: Algoritmo de geração de imagens baseado em difusão para transformar descrições em imagens detalhadas e estilizadas.
-- **Python**: Linguagem principal utilizada para interação com as APIs das IAs e para automação do processo de criação.
-- **GitHub**: Para versionamento de código e gerenciamento do repositório.
-- **Flask**: Framework usado para a criação de uma API simples para a interação com as IAs.
 
 ## 🧐 Processo de Criação
 1. **Planejamento**: Começamos com a definição do tema "Natty or Not" para a geração das imagens, baseando-se em temas relacionados ao fisiculturismo.
